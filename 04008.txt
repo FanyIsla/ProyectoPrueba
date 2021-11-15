@@ -1,0 +1,85 @@
+{
+    "MENSAJEREQ": {
+        "INTEGREQ": {
+            "CABECERA": {
+                "applicationCode": "0001",
+                "applicationUser": "FT-CAPITAL",
+                "actionCode": "04008",
+                "actionDate": "11/11/2021",
+                "actionTime": "11:40:01",
+                "additionalField1": "801",
+                "additionalField2": null,
+                "processDetail": {
+                    "idProcess": 1113145.0,
+                    "applicationSource": 2
+                }
+            },
+            "DETALLE": {
+                "DATOS": {
+                    "invoiceTrackingRequest": {
+                        "Invoice": [
+                            {
+                                "processNumber": 1113134.0,
+                                "providerRuc": "20600801831",
+                                "series": "H001",
+                                "numeration": 801,
+                                "authorizationNumber": null,
+                                "invoiceType": "01",
+                                "resultCode": "0000",
+                                "resultMessage": "Se ejecuto el proceso correctamente.",
+                                "invoiceRetry": null,
+                                "invoiceState": 3,
+                                "businessName": "LIMA LED S.A.C.",
+                                "providerUbigeoCode": "010101",
+                                "providerAddress": "CAL. TOMAS RAMSEY 751 URB. SAN FELIPE",
+                                "acqRuc": "20472109171",
+                                "acqFullName": "MINDSHARE PERU S.A.C.",
+                                "acqUbigeoCode": "010101",
+                                "acqAddress": "CALLE 1",
+                                "acqPhoneNumber": null,
+                                "acqEmail": null,
+                                "acqContactName": null,
+                                "registerDate": "11/11/2021 10:54:21",
+                                "acqNotificationDate": "11/11/2021 11:38:00",
+                                "reliableNotification": 1,
+                                "deliverDateInvoice": null,
+                                "sunatResponse": 1,
+                                "acvDate": "11/11/2021 11:37:46",
+                                "transferAccountDate": null,
+                                "retireDate": "11/11/2021 11:39:51",
+                                "retireDetails": null,
+                                "redeemDate": null,
+                                "constancyEmissionDate": "",
+                                "acqConstancyNotificationDate": "",
+                                "reliableConstancyNotification": 0,
+                                "constancyEmission": 0,
+                                "acqResponse": null,
+                                "acqResponseDate": null,
+                                "disconformityDetail": null,
+                                "acqRegister": 1,
+                                "currency": 1,
+                                "netAmount": 4012.0,
+                                "typePayment": 0,
+                                "netAmountPending": 3400.0,
+                                "paymentDate": "11/12/2021",
+                                "emissionDate": "11/11/2021",
+                                "expirationDate": "11/12/2021",
+                                "providerHolderRut": 1347955,
+                                "currentHolderRut": 1347955,
+                                "isinCodeinvoice": null,
+                                "specialClauses": null,
+                                "observations": null,
+                                "paymentDetail": null,
+                                "additionalField1": null,
+                                "additionalField2": null,
+                                "additionalField3": null,
+                                "additionalField4": null,
+                                "additionalField5": null
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
